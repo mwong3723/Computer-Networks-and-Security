@@ -1,0 +1,266 @@
+2024-12-12 22:51:41,143 - Blocked packet: Ether / IP / TCP 20.189.173.6:https > 10.0.0.146:57274 PA / Raw
+2024-12-12 22:51:41,143 - Blocked packet: Ether / IP / TCP 10.0.0.146:57274 > 20.189.173.6:https A
+2024-12-12 22:51:41,144 - Blocked packet: Ether / IP / TCP 10.0.0.146:57274 > 20.189.173.6:https PA / Raw
+2024-12-12 22:58:34,257 - Blocked packet: Ether / IP / TCP 10.0.0.146:57168 > 162.159.135.234:https PA / Raw
+2024-12-12 22:58:34,275 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.146:57168 A
+2024-12-12 22:58:34,277 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,292 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-12 22:58:34,294 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-12 22:58:34,295 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-12 22:58:34,296 - Blocked packet: Ether / IP / UDP 169.254.56.99:50759 > 239.255.255.250:ssdp / Raw
+2024-12-12 22:58:34,297 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:34,297 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:34,298 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:34,299 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:34,303 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,325 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,326 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,326 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,327 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,327 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,346 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,350 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.146:57168 PA / Raw
+2024-12-12 22:58:34,351 - Blocked packet: Ether / IP / TCP 10.0.0.146:57168 > 162.159.135.234:https A
+2024-12-12 22:58:34,361 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-12 22:58:34,363 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,398 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,498 - Blocked packet: Ether / IP / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+2024-12-12 22:58:34,499 - Blocked packet: Ether / IPv6 / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+2024-12-12 22:58:34,538 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,540 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,541 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,543 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,544 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,545 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,558 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,559 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,564 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,565 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,573 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,574 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:34,574 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:34,576 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,576 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,577 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,577 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,578 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,601 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,610 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,611 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,611 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,611 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,611 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,612 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,615 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,615 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,616 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,616 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,616 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,634 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,642 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,647 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,655 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,655 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:34,656 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:34,692 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,711 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:34,712 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:34,761 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:34,762 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:34,763 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,773 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,774 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,774 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,776 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,777 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,801 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,847 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,876 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:34,979 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,980 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,981 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,982 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:34,983 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:34,984 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,039 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,054 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,055 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,056 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,056 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,057 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,109 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,111 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:35,113 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:35,114 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:35,115 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:35,174 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,195 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:35,196 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:35,210 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 PA / Raw
+2024-12-12 22:58:35,211 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A
+2024-12-12 22:58:35,212 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,221 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,222 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,223 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,223 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,224 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,247 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,255 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,299 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,398 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'browser-intake-datadoghq.com.'
+2024-12-12 22:58:35,400 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'browser-intake-datadoghq.com.'
+2024-12-12 22:58:35,401 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'browser-intake-datadoghq.com.'
+2024-12-12 22:58:35,404 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,405 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,406 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,407 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 A / Raw
+2024-12-12 22:58:35,408 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,409 - Blocked packet: Ether / IP / TCP 10.0.0.146:58254 > 17.57.144.183:5223 PA / Raw
+2024-12-12 22:58:35,425 - Blocked packet: Ether / IPv6 / UDP / DNS Ans
+2024-12-12 22:58:35,426 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,430 - Blocked packet: Ether / IPv6 / UDP / DNS Ans 3.233.158.26
+2024-12-12 22:58:35,432 - Blocked packet: Ether / IPv6 / UDP / DNS Ans 2600:1f18:24e6:b900:2d16:a724:7ca3:5c63
+2024-12-12 22:58:35,440 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-12 22:58:35,441 - Blocked packet: Ether / IP / TCP 17.57.144.183:5223 > 10.0.0.146:58254 A
+2024-12-13 18:39:27,307 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2024-12-13 18:39:27,309 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2024-12-13 18:39:27,331 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2024-12-13 18:39:27,335 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2024-12-13 18:39:27,336 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'onedscolprdwus08.westus.cloudapp.azure.com.'
+2024-12-13 18:39:27,357 - Blocked packet: Ether / IPv6 / UDP / DNS Ans
+2024-12-13 18:39:28,075 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:39:28,088 - Blocked packet: Ether / IP / TCP 17.36.200.87:https > 10.0.0.227:55443 PA / Raw
+2024-12-13 18:39:28,090 - Blocked packet: Ether / IP / TCP 10.0.0.227:55443 > 17.36.200.87:https A
+2024-12-13 18:39:28,091 - Blocked packet: Ether / IP / TCP 10.0.0.227:55443 > 17.36.200.87:https PA / Raw
+2024-12-13 18:39:28,092 - Blocked packet: Ether / IP / TCP 10.0.0.227:55443 > 17.36.200.87:https PA / Raw
+2024-12-13 18:39:28,093 - Blocked packet: Ether / IP / TCP 17.36.200.87:https > 10.0.0.227:55443 FA
+2024-12-13 18:39:28,094 - Blocked packet: Ether / IP / TCP 10.0.0.227:55443 > 17.36.200.87:https A
+2024-12-13 18:39:28,095 - Blocked packet: Ether / IP / TCP 10.0.0.227:55443 > 17.36.200.87:https FA
+2024-12-13 18:39:28,186 - Blocked packet: Ether / IP / TCP 17.36.200.87:https > 10.0.0.227:55443 R
+2024-12-13 18:39:28,187 - Blocked packet: Ether / IP / TCP 17.36.200.87:https > 10.0.0.227:55443 R
+2024-12-13 18:39:28,188 - Blocked packet: Ether / IP / TCP 17.36.200.87:https > 10.0.0.227:55443 R
+2024-12-13 18:39:28,189 - Blocked packet: Ether / IP / TCP 17.36.200.87:https > 10.0.0.227:55443 R
+2024-12-13 18:39:28,981 - Blocked packet: Ether / IP / TCP 10.0.0.227:58030 > 20.50.201.205:https FA
+2024-12-13 18:39:29,508 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:39:30,450 - Blocked packet: Ether / IP / UDP / mDNS Qry b'lb._dns-sd._udp.local.'
+2024-12-13 18:39:30,455 - Blocked packet: Ether / IPv6 / UDP / mDNS Qry b'lb._dns-sd._udp.local.'
+2024-12-13 18:39:30,841 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'bpapi.apple.com.'
+2024-12-13 18:39:30,842 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'bpapi.apple.com.'
+2024-12-13 18:39:30,842 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'bpapi.apple.com.'
+2024-12-13 18:39:30,861 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'bpapi.v.aaplimg.com.'
+2024-12-13 18:39:30,865 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'bpapi.v.aaplimg.com.'
+2024-12-13 18:39:30,866 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'bpapi.v.aaplimg.com.'
+2024-12-13 18:39:30,867 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'bpapi.v.aaplimg.com.'
+2024-12-13 18:39:30,868 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'bpapi.v.aaplimg.com.'
+2024-12-13 18:39:30,892 - Blocked packet: Ether / IPv6 / UDP / DNS Ans
+2024-12-13 18:39:30,914 - Blocked packet: Ether / IPv6 / UDP / DNS Ans
+2024-12-13 18:39:30,915 - Blocked packet: Ether / IP / UDP 151.101.23.6:https > 10.0.0.227:65060 / Raw
+2024-12-13 18:39:30,916 - Blocked packet: Ether / IP / ICMP 10.0.0.227 > 151.101.23.6 dest-unreach port-unreachable / IPerror / UDPerror
+2024-12-13 18:39:30,922 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'setup.icloud.com.'
+2024-12-13 18:39:30,923 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'setup.icloud.com.'
+2024-12-13 18:39:30,923 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'setup.icloud.com.'
+2024-12-13 18:39:30,939 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'setup.fe2.apple-dns.net.'
+2024-12-13 18:39:30,940 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'setup.fe2.apple-dns.net.'
+2024-12-13 18:39:30,942 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'setup.fe2.apple-dns.net.'
+2024-12-13 18:39:30,943 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'setup.fe2.apple-dns.net.'
+2024-12-13 18:40:44,868 - Blocked packet: Ether / ARP who has 10.0.0.35 says 10.0.0.247
+2024-12-13 18:40:45,894 - Blocked packet: Ether / ARP who has 10.0.0.35 says 10.0.0.247
+2024-12-13 18:40:46,095 - Blocked packet: Ether / IP / TCP 10.0.0.227:58030 > 20.50.201.205:https FA
+2024-12-13 18:40:46,099 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:40:46,764 - Blocked packet: Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 60:3e:5f:38:76:b0
+2024-12-13 18:40:46,767 - Blocked packet: Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::aa70:5dff:fe9a:9887)
+2024-12-13 18:40:46,819 - Blocked packet: Ether / IP / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2024-12-13 18:40:46,820 - Blocked packet: Ether / IPv6 / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2024-12-13 18:40:46,863 - Blocked packet: Ether / ARP who has 10.0.0.35 says 10.0.0.247
+2024-12-13 18:40:47,536 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:47,635 - Blocked packet: Ether / ARP is at a8:70:5d:9a:98:87 says 10.0.0.1
+2024-12-13 18:40:47,942 - Blocked packet: Ether / ARP who has 10.0.0.35 says 10.0.0.247
+2024-12-13 18:40:48,290 - Blocked packet: Ether / IPv6 / UDP 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 > 2620:149:a00:2000::e2:https / Raw
+2024-12-13 18:40:48,324 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:40:48,341 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:40:48,341 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:40:48,342 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:40:48,342 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:40:48,343 - Blocked packet: Ether / IPv6 / UDP 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 > 2620:149:a00:2000::e2:https / Raw
+2024-12-13 18:40:48,966 - Blocked packet: Ether / ARP who has 10.0.0.35 says 10.0.0.247
+2024-12-13 18:40:49,582 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:40:50,605 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:40:51,425 - Blocked packet: Ether / ARP who has 10.0.0.227 says 10.0.0.1
+2024-12-13 18:40:51,426 - Blocked packet: Ether / ARP is at 60:3e:5f:38:76:b0 says 10.0.0.227
+2024-12-13 18:40:51,629 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:40:51,631 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:51,632 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:51,633 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:51,633 - Blocked packet: Ether / IP / UDP 169.254.56.99:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:51,946 - Blocked packet: Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:40:51,948 - Blocked packet: Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::1446:40a6:5eac:d538)
+2024-12-13 18:40:52,140 - Blocked packet: Ether / ARP who has 10.0.0.1 says 10.0.0.220
+2024-12-13 18:40:52,143 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:40:52,551 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:54,376 - Blocked packet: Ether / IP / TCP 10.0.0.227:58037 > 162.159.135.232:https A
+2024-12-13 18:40:54,398 - Blocked packet: Ether / IP / TCP 162.159.135.232:https > 10.0.0.227:58037 A
+2024-12-13 18:40:54,496 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:40:54,808 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.227:58035 PA / Raw
+2024-12-13 18:40:54,809 - Blocked packet: Ether / IP / TCP 10.0.0.227:58035 > 162.159.135.234:https A
+2024-12-13 18:40:54,997 - Blocked packet: Ether / IPv6 / UDP 2601:601:d286:2610:7dc6:7e1:22c3:280f:53363 > 2620:149:a42:1008::4:https / Raw
+2024-12-13 18:40:55,062 - Blocked packet: Ether / IPv6 / UDP 2620:149:a42:1008::4:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:53363 / Raw
+2024-12-13 18:40:55,110 - Blocked packet: Ether / ARP who has 10.0.0.1 says 10.0.0.220
+2024-12-13 18:40:55,112 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:40:56,543 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:40:57,060 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.227:58035 PA / Raw
+2024-12-13 18:40:57,061 - Blocked packet: Ether / IP / TCP 10.0.0.227:58035 > 162.159.135.234:https A
+2024-12-13 18:40:57,465 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:40:57,466 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.227:58035 PA / Raw
+2024-12-13 18:40:57,467 - Blocked packet: Ether / IP / TCP 10.0.0.227:58035 > 162.159.135.234:https A
+2024-12-13 18:40:57,945 - Blocked packet: Ether / IP / TCP 10.0.0.227:58030 > 20.50.201.205:https RA
+2024-12-13 18:40:58,120 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:40:59,515 - Blocked packet: Ether / ARP who has 10.0.0.1 says 10.0.0.46
+2024-12-13 18:41:00,436 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:41:00,653 - Blocked packet: Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:41:00,654 - Blocked packet: Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: 2601:601:d286:2610:7dc6:7e1:22c3:280f)
+2024-12-13 18:41:00,807 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'lb._dns-sd._udp.hsd1.wa.comcast.net.'
+2024-12-13 18:41:00,829 - Blocked packet: Ether / IPv6 / UDP / DNS Ans name-error
+2024-12-13 18:41:01,460 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:41:01,462 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.227:58035 PA / Raw
+2024-12-13 18:41:01,464 - Blocked packet: Ether / IP / TCP 10.0.0.227:58035 > 162.159.135.234:https A
+2024-12-13 18:41:01,559 - Blocked packet: Ether / IP / TCP 162.159.135.234:https > 10.0.0.227:58035 PA / Raw
+2024-12-13 18:41:01,561 - Blocked packet: Ether / IP / TCP 10.0.0.227:58035 > 162.159.135.234:https A
+2024-12-13 18:42:58,803 - Blocked packet: Ether / IP / TCP 20.42.65.84:https > 10.0.0.227:58046 A
+2024-12-13 18:42:58,804 - Blocked packet: Ether / IP / TCP 20.42.65.84:https > 10.0.0.227:58046 PA / Raw
+2024-12-13 18:42:58,804 - Blocked packet: Ether / IP / TCP 10.0.0.227:58046 > 20.42.65.84:https A
+2024-12-13 18:42:58,805 - Blocked packet: Ether / IP / TCP 20.42.65.84:https > 10.0.0.227:58046 PA / Raw
+2024-12-13 18:42:58,805 - Blocked packet: Ether / IP / TCP 10.0.0.227:58046 > 20.42.65.84:https A
+2024-12-13 18:42:58,805 - Blocked packet: Ether / IP / TCP 10.0.0.227:58046 > 20.42.65.84:https PA / Raw
+2024-12-13 18:42:58,813 - Blocked packet: Ether / IP / TCP 20.42.65.84:https > 10.0.0.227:58046 PA / Raw
+2024-12-13 18:42:58,814 - Blocked packet: Ether / IP / TCP 10.0.0.227:58046 > 20.42.65.84:https A
+2024-12-13 18:42:58,839 - Blocked packet: Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:42:58,839 - Blocked packet: Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::1446:40a6:5eac:d538)
+2024-12-13 18:42:58,894 - Blocked packet: Ether / IP / TCP 20.42.65.84:https > 10.0.0.227:58046 PA / Raw
+2024-12-13 18:42:58,895 - Blocked packet: Ether / IP / TCP 10.0.0.227:58046 > 20.42.65.84:https A
+2024-12-13 18:42:59,534 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:42:59,942 - Blocked packet: Ether / ARP who has 10.0.0.227 says 10.0.0.1
+2024-12-13 18:42:59,943 - Blocked packet: Ether / ARP is at 60:3e:5f:38:76:b0 says 10.0.0.227
+2024-12-13 18:43:00,329 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2024-12-13 18:43:00,329 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+2024-12-13 18:43:00,352 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2024-12-13 18:43:00,355 - Blocked packet: Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+2024-12-13 18:43:00,356 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'onedscolprdwus01.westus.cloudapp.azure.com.'
+2024-12-13 18:43:00,384 - Blocked packet: Ether / IPv6 / UDP / DNS Ans
+2024-12-13 18:43:00,658 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:43:01,173 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:43:01,683 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:43:02,703 - Blocked packet: Ether / ARP who has 169.254.100.1 says 169.254.56.99
+2024-12-13 18:43:03,189 - Blocked packet: Ether / IPv6 / UDP / DNS Qry b'lb._dns-sd._udp.0.0.0.10.in-addr.arpa.'
+2024-12-13 18:43:03,220 - Blocked packet: Ether / IPv6 / UDP / DNS Ans name-error
+2024-12-13 18:43:03,631 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:43:03,632 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:43:03,637 - Blocked packet: Ether / IP / UDP 169.254.56.99:50760 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:43:03,638 - Blocked packet: Ether / IP / UDP 169.254.56.99:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:43:04,141 - Blocked packet: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptRDNSS / ICMPv6NDOptPrefixInfo / ICMPv6NDOptRouteInfo / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address a8:70:5d:9a:98:87
+2024-12-13 18:43:04,551 - Blocked packet: Ether / IP / UDP 169.254.100.1:50759 > 239.255.255.250:ssdp / Raw
+2024-12-13 18:43:04,616 - Blocked packet: Ether / IPv6 / UDP 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 > 2620:149:a00:2000::e2:https / Raw
+2024-12-13 18:43:04,660 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:43:04,691 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:43:04,691 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:43:04,692 - Blocked packet: Ether / IPv6 / UDP 2620:149:a00:2000::e2:https > 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 / Raw
+2024-12-13 18:43:04,692 - Blocked packet: Ether / IPv6 / UDP 2601:601:d286:2610:7dc6:7e1:22c3:280f:57568 > 2620:149:a00:2000::e2:https / Raw
